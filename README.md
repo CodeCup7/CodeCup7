@@ -1,5 +1,5 @@
 <div align="center">
-<img width=922px height=922px src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/logo-readme.png" alt="Project logo">
+<img width=461px height=461px src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/logo-readme.png" alt="Project logo">
 </div>
 
 <h1 align="center">:star:Hi there 👋</h1>
