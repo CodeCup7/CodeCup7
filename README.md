@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/CodeCup7/CodeCup7/assets/97393786/d991a7bd-1783-4dd3-be4d-bf9886c83f98)<div align="center">
 <img width=461px height=461px src="https://github.com/CodeCup7/CodeCup7/blob/main/assets/logo-readme.png" alt="Project logo">
 </div>
 
@@ -42,27 +42,14 @@
 
   ## :hammer:Desing:
   <div>
-     <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" width="50" height="50"  alt="canva" />
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/800px-Microsoft_365_Copilot_Icon.svg.png" width="50" height="50"  alt="copilot" />
+     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"  alt="canva" />
      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind css" />
      <img src="https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisuUI" />
      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" />
   </div>
 
    ## :hammer:Love:
-
-
-<!--
-**CodeCup7/CodeCup7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   </div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/1200px-Microsoft_365_Copilot_Icon.svg.png" width="50" height="50" alt="copilot" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="50" height="50" alt="gtp" />
+  </div>
