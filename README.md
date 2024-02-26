@@ -12,7 +12,7 @@
 <br>:heart: I love optimizing processes and making people's work easier.
 <br>:triangular_ruler: I love creating GUI.
 <br>:computer: I'm passionate about programming.
-<br>:construction_worker: Lately, I've been focusing on Next.js."
+<br>:construction_worker: Lately, I've been focusing on Next.js.
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Axe.png" alt="Axe" width="50" height="50" />Technology Main:
  <div>
